@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliskakucerova
-- 👀 I’m interested in Python, Data Science = data processing (Pandas, SQL), data visualization (Matplotlib, Seaborn, Plotly), Machine learning (supervised) 
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Linux operating system
 - 💞️ I’m looking to collaborate on project that is somehow connected with my interests
 - 📫 How to reach me? https://www.linkedin.com/in/eli%C5%A1ka-k-0056b3243/?locale=en_US
